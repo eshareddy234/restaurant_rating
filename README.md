@@ -6,11 +6,9 @@ Link to the original Dataset: https://www.kaggle.com/himanshupoddar/zomato-banga
 
 Link to our Kaggle Notebook: 
 
-Details of my Project-
-Module 1 - Introduction
-Module 2 - EDA and Cleaning
-Module 3 - Visualization
-Module 4 -Predictive Models
-Module 5 -Inferences
-Module 6 - Predicting Ratings for New Restaurants
-Module 7 - Conclusions
+Details of my Project-                                                                                                                                   
+Module 1 - Introduction                                                                                                                                  
+Module 2 - EDA and Cleaning                                                                                                                              
+Module 3 - Visualization                                                                                                                                 
+Module 4 -Predictive Models                                                                                                                              
+Module 5 -Inferences                                                                                                                                     Module 6 - Predicting Ratings for New Restaurants                                                                                                        Module 7 - Conclusions
